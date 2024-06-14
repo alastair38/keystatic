@@ -1,0 +1,13 @@
+links:
+  - discriminant: url
+    value:
+      title: BBC
+      url: https://bbc.co.uk
+  - discriminant: page
+    value:
+      title: Second link
+      url: second-article
+  - discriminant: page
+    value:
+      title: Test page
+      url: test-article

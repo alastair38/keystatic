@@ -1,0 +1,13 @@
+name: My website here
+email: alastair@alastaircox.com
+address:
+  street: 6 Balcarres Court
+  city: Edinburgh
+  state: Colorado
+  postcode: EH10 5JL
+  country: United Kingdom
+socialLinks:
+  - platform: Instagram
+    profileLink: https://instagram.com/lakaak
+  - platform: X
+    profileLink: https://twitter.com/fowogho
